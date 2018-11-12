@@ -1,1 +1,1 @@
-# index.privacypolicy
+# index.privacypolicy.github.io
